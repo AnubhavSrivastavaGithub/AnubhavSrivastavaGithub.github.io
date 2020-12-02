@@ -2,7 +2,7 @@
 
 <br>
 <img src="https://kwoc.kossiitkgp.org/static/media/circle.33e6ce0d.svg" width='100' height='80'><br>
-[![Badge](https://img.shields.io/badge/KWOC-2020-blueviolet.svg)](https://shields.io/)
+[![Generic Badge](https://img.shields.io/badge/KWOC-2020-blueviolet.svg)](https://shields.io/)
 <br>
 # Spaceye :milky_way:
 
