@@ -1,9 +1,6 @@
-# AnubhavSrivastavaGithub.github.io
+<img src="https://kwoc.kossiitkgp.org/static/media/circle.33e6ce0d.svg" width='100' height='80'>
 
-<br>
-<img src="https://kwoc.kossiitkgp.org/static/media/circle.33e6ce0d.svg" width='100' height='80'><br>
-[![Generic Badge](https://img.shields.io/badge/KWOC-2020-blueviolet.svg)](https://shields.io/)
-<br>
+[![Badge](https://img.shields.io/badge/KWOC-2020-blueviolet.svg)](https://shields.io/)
 # Spaceye :milky_way:
 
 Spaceye is something hit my mind :brain: when I was reading :blue_book: "Introductation to Astrophsics" by Baidyanath Basu which said we can get informatation about some
