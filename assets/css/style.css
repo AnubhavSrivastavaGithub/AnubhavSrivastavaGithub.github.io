@@ -887,6 +887,13 @@ a:hover {
 /*--------------------------------------------------------------
 # Counter
 --------------------------------------------------------------*/
+#countertitle {
+  text-align: center;
+  color: whitesmoke;
+  text-shadow: 1px 1px 5px black;
+  opacity: 100%;
+}
+
 .counter-box {
   color: #fff;
   text-align: center;
