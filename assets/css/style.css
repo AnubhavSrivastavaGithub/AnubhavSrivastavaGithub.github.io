@@ -161,8 +161,8 @@ a:hover {
 }
 
 .line-mf {
-  width: 40px;
-  height: 5px;
+  max-width: 500px;
+  height: 3px;
   background-color: #0078ff;
   margin: 0 auto;
 }
@@ -928,6 +928,7 @@ a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
+  max-height: 350px;
 }
 
 .work-box:hover img {
@@ -937,6 +938,7 @@ a:hover {
 .work-img {
   display: block;
   overflow: hidden;
+  max-height: 200px;
 }
 
 .work-img img {
@@ -1449,4 +1451,22 @@ footer .credits {
 
 footer .credits a {
   color: #fff;
+}
+
+.btn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #000dff;
+  padding: 5px 20px 5px 20px;
+  border: solid #1100ff 0px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ff8400;
+  text-decoration: none;
 }
