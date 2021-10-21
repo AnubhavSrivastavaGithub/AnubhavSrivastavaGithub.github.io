@@ -1470,3 +1470,8 @@ footer .credits a {
   background: #ff8400;
   text-decoration: none;
 }
+
+.counter-num .counter purecounter:before {
+  font-size: 2rem;
+  margin-bottom: 0;
+}
