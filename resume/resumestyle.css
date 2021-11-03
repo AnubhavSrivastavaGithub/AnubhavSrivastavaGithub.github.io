@@ -19,7 +19,12 @@ body {
   cursor: default;
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
-  background: linear-gradient(135deg,rgb(14, 233, 51), rgb(252, 121, 33) 0%, rgb(96, 94, 247) 100%);
+  background: linear-gradient(
+    135deg,
+    rgb(14, 233, 51),
+    rgb(252, 121, 33) 0%,
+    rgb(96, 94, 247) 100%
+  );
 }
 
 a {
@@ -270,7 +275,7 @@ h3 {
 .resume .func .work ul li:hover::before,
 .resume .func .edu ul li:hover::before {
   -webkit-animation: circle 1.2s infinite;
-          animation: circle 1.2s infinite;
+  animation: circle 1.2s infinite;
 }
 
 .resume .func .work ul li:hover span,
