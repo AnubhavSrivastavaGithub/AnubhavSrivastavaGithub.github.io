@@ -473,6 +473,7 @@ a:hover {
 
 #header .logo a {
   color: #fff;
+  text-shadow: 1px 1px black;
 }
 
 #header .logo img {
@@ -509,6 +510,7 @@ a:hover {
 .navbar > ul > li {
   white-space: nowrap;
   padding: 10px 0 10px 30px;
+  text-shadow: 1px 1px black;
 }
 
 .navbar a {
@@ -763,6 +765,7 @@ a:hover {
   color: #fff;
   font-weight: 600;
   font-size: 3rem;
+  text-shadow: 2px 2px black;
 }
 
 @media (min-width: 768px) {
@@ -774,6 +777,7 @@ a:hover {
 .hero .hero-subtitle {
   font-size: 1.5rem;
   font-weight: 600;
+  text-shadow: 2px 2px black;
 }
 
 @media (min-width: 768px) {
